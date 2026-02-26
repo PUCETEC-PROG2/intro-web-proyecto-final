@@ -117,25 +117,16 @@ Debe incluir:
 
 ## 3️⃣ Página de Productos
 
-Debe:
+Debe mostrar:
 
--   Renderizar productos desde un arreglo de objetos en JavaScript\
+-   Mínimo 6 productos\
 -   Cada producto debe tener:
-    -   id\
-    -   nombre\
-    -   precio\
-    -   imagen\
-    -   descripción\
-    -   categoría
+    -   Nombre\
+    -   Precio\
+    -   Imagen\
+    -   Descripción breve
 
-### Funcionalidad obligatoria:
-
--   Agregar productos al carrito\
--   Mostrar carrito dinámicamente\
--   Calcular total automáticamente\
--   Permitir eliminar productos
-
-Los productos NO pueden estar escritos directamente en el HTML.
+Los productos pueden estar escritos directamente en el HTML con una estructura clara y organizada.
 
 ------------------------------------------------------------------------
 
@@ -246,7 +237,6 @@ Cada grupo deberá explicar:
 
 -   Cómo estructuraron el HTML5 semántico\
 -   Cómo implementaron el diseño responsive\
--   Cómo funciona la lógica del carrito\
 -   Cómo realizaron la validación del formulario\
 -   Cómo realizaron el despliegue en GitHub Pages\
 -   Qué fue lo más complejo del proyecto
@@ -257,14 +247,14 @@ Ambos integrantes deben participar.
 
 # 📊 Rúbrica de Evaluación
 
-  Criterio                       Puntaje
+  Criterio                       Puntos
   ------------------------------ ---------
-  Estructura semántica HTML5     15%
-  Diseño CSS                     15%
-  Responsive design              15%
-  Lógica del carrito             15%
-  Render dinámico de productos   10%
-  Validación del formulario      10%
-  Despliegue en GitHub Pages     10%
-  Organización del código        5%
-  Exposición                     5%
+  Estructura semántica HTML5     10
+  Diseño CSS                     10
+  Responsive design              7.5
+  Validación del formulario      7.5
+  Despliegue en GitHub Pages     5
+  Organización del código        2.5
+  Exposición                     7.5
+  ------------------------------ ---------
+  **TOTAL**                      **50**
