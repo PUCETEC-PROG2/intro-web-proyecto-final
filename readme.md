@@ -9,42 +9,42 @@
 Desarrollar un sitio web que simule una tienda en línea utilizando
 únicamente:
 
--   HTML5 semántico\
--   CSS\
+-   HTML5 semántico
+-   CSS
 -   JavaScript (Vanilla JS)
 
 El proyecto debe demostrar comprensión de:
 
--   Estructura semántica moderna\
--   Diseño responsive\
--   Manipulación del DOM\
--   Eventos\
--   Validación de formularios\
--   Organización clara del código\
+-   Estructura semántica moderna
+-   Diseño responsive
+-   Manipulación del DOM
+-   Eventos
+-   Validación de formularios
+-   Organización clara del código
 -   Despliegue web básico
 
 ------------------------------------------------------------------------
 
 ## 👥 Modalidad
 
--   Trabajo en grupos de máximo 2 personas\
--   Ambos integrantes deben participar en la exposición\
+-   Trabajo en grupos de máximo 2 personas
+-   Ambos integrantes deben participar en la exposición
 -   Ambos deben comprender completamente el código entregado
 
 ------------------------------------------------------------------------
 
 ## 🏬 Temáticas Disponibles (Elegir una)
 
-1.  Instrumentos musicales\
-2.  Tienda de mascotas\
-3.  Tienda de discos de música\
-4.  Librería online\
-5.  Tienda de videojuegos\
-6.  Tienda de ropa urbana\
-7.  Tienda de tecnología\
-8.  Tienda de artículos deportivos\
-9.  Tienda de café y productos gourmet\
-10. Tienda de plantas y jardinería
+1.  🎸 Instrumentos musicales
+2.  🐾 Tienda de mascotas
+3.  💿 Tienda de discos de música
+4.  📚 Librería online
+5.  🎮 Tienda de videojuegos
+6.  👕 Tienda de ropa urbana
+7.  💻 Tienda de tecnología
+8.  ⚽ Tienda de artículos deportivos
+9.  ☕ Tienda de café y productos gourmet
+10. 🌱 Tienda de plantas y jardinería
 
 ------------------------------------------------------------------------
 
@@ -98,9 +98,9 @@ mediante navegación.
 
 Debe incluir:
 
--   Nombre de la tienda\
--   Banner o imagen principal\
--   Descripción breve\
+-   Nombre de la tienda
+-   Banner o imagen principal
+-   Descripción breve
 -   Enlace hacia la página de categorías
 
 ------------------------------------------------------------------------
@@ -109,8 +109,8 @@ Debe incluir:
 
 Debe incluir:
 
--   Mínimo 3 categorías\
--   Imagen representativa por categoría\
+-   Mínimo 3 categorías
+-   Imagen representativa por categoría
 -   Enlace hacia productos filtrados por categoría
 
 ------------------------------------------------------------------------
@@ -119,11 +119,11 @@ Debe incluir:
 
 Debe mostrar:
 
--   Mínimo 6 productos\
+-   Mínimo 6 productos
 -   Cada producto debe tener:
-    -   Nombre\
-    -   Precio\
-    -   Imagen\
+    -   Nombre
+    -   Precio
+    -   Imagen
     -   Descripción breve
 
 Los productos pueden estar escritos directamente en el HTML con una estructura clara y organizada.
@@ -134,19 +134,19 @@ Los productos pueden estar escritos directamente en el HTML con una estructura c
 
 Formulario con:
 
--   Nombre\
--   Ciudad\
--   Email\
--   Asunto\
+-   Nombre
+-   Ciudad
+-   Email
+-   Asunto
 -   Descripción
 
 ### Validaciones obligatorias con JavaScript:
 
--   Campos no vacíos\
--   Email con formato válido\
--   Nombre mínimo 3 caracteres\
--   Descripción mínimo 10 caracteres\
--   Mostrar mensajes de error dinámicos\
+-   Campos no vacíos
+-   Email con formato válido
+-   Nombre mínimo 3 caracteres
+-   Descripción mínimo 10 caracteres
+-   Mostrar mensajes de error dinámicos
 -   Evitar envío si existen errores
 
 ------------------------------------------------------------------------
@@ -155,9 +155,9 @@ Formulario con:
 
 El sitio debe:
 
--   Adaptarse correctamente a dispositivos móviles\
--   Usar media queries\
--   Mantener navegación funcional en pantallas pequeñas\
+-   Adaptarse correctamente a dispositivos móviles
+-   Usar media queries
+-   Mantener navegación funcional en pantallas pequeñas
 -   Evitar desbordamientos horizontales
 
 Si el sitio no es responsive, habrá penalización significativa.
@@ -168,13 +168,13 @@ Si el sitio no es responsive, habrá penalización significativa.
 
 Como parte del componente investigativo del proyecto:
 
--   El sitio debe ser desplegado utilizando GitHub Pages.\
--   Los estudiantes deberán investigar cómo realizar el despliegue.\
+-   El sitio debe ser desplegado utilizando GitHub Pages.
+-   Los estudiantes deberán investigar cómo realizar el despliegue.
 -   No se proporcionará tutorial paso a paso en clase.
 
 ### Deben entregar:
 
-1.  Enlace al repositorio en GitHub\
+1.  Enlace al repositorio en GitHub
 2.  Enlace público del sitio funcionando en GitHub Pages
 
 Si el sitio no está publicado correctamente, se descontará puntaje.
@@ -222,11 +222,11 @@ trabajo-final/
 
 Debe incluir:
 
--   Nombre del proyecto\
--   Integrantes\
--   Temática elegida\
--   Descripción del proyecto\
--   Capturas de pantalla\
+-   Nombre del proyecto
+-   Integrantes
+-   Temática elegida
+-   Descripción del proyecto
+-   Capturas de pantalla
 -   Enlace al sitio desplegado en GitHub Pages
 
 ------------------------------------------------------------------------
@@ -235,10 +235,10 @@ Debe incluir:
 
 Cada grupo deberá explicar:
 
--   Cómo estructuraron el HTML5 semántico\
--   Cómo implementaron el diseño responsive\
--   Cómo realizaron la validación del formulario\
--   Cómo realizaron el despliegue en GitHub Pages\
+-   Cómo estructuraron el HTML5 semántico
+-   Cómo implementaron el diseño responsive
+-   Cómo realizaron la validación del formulario
+-   Cómo realizaron el despliegue en GitHub Pages
 -   Qué fue lo más complejo del proyecto
 
 Ambos integrantes deben participar.
